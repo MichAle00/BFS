@@ -1,0 +1,14 @@
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/bin/Debug/net8.0/BFS
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/bin/Debug/net8.0/BFS.deps.json
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/bin/Debug/net8.0/BFS.runtimeconfig.json
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/bin/Debug/net8.0/BFS.dll
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/bin/Debug/net8.0/BFS.pdb
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.AssemblyInfoInputs.cache
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.AssemblyInfo.cs
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.csproj.CoreCompileInputs.cache
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.dll
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/refint/BFS.dll
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.pdb
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/BFS.genruntimeconfig.cache
+/home/miguelalejandro/Desktop/Projects/BFS/BFS/obj/Debug/net8.0/ref/BFS.dll
